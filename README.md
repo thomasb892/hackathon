@@ -68,4 +68,4 @@ This consists of two parts:
 * Site : https://utkarsh2102.github.io/hackathon
 
 # Contributors
-* [Utkarsh Gupta](https://github.com/utkarsh2102)
+* [Thomas Benardo](https://github.com/thomasb892)
