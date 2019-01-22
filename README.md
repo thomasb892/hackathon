@@ -13,16 +13,14 @@ In the context of a hackathon, the word "hack" is used to describe how multiple 
 This consists of two parts:
 * FrontEnd:
     - HTML
-    - Sass
-    - EJS
     - Bootstrap
     - JavaScript
-    - Node as build system
+    - JQuery
 
 
 * Backend:
-    - Flask
-    - MySQL
+    - NodeJS
+    - Cloud FireStore
 
 # Contributing to AbsoluteHack
 
