@@ -21,8 +21,8 @@ This consists of two parts:
 
 
 * Backend:
-    - Django
-    - PostgreSQL
+    - Flask
+    - MySQL
 
 # Contributing to AbsoluteHack
 
