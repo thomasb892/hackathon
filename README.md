@@ -13,6 +13,7 @@ In the context of a hackathon, the word "hack" is used to describe how multiple 
 This consists of two parts:
 * FrontEnd:
     - HTML
+    - CSS
     - Bootstrap
     - JavaScript
     - JQuery
